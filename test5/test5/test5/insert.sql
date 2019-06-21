@@ -1,0 +1,1 @@
+insert or replace into MailData(mailID,mailFrom ,mailTo ,subject ) values ()
